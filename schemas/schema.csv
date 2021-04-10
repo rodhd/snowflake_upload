@@ -1,0 +1,8 @@
+"key","sheet","location","cell_type"
+"brand","car","B1","STRING"
+"model","car","B2","STRING"
+"year","car","B3","INTEGER"
+"price","car","B4","DECIMAL"
+"name","owner","B1","STRING"
+"age","owner","B2","INTEGER"
+"date","owner","B3","INTEGER"
